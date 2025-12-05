@@ -1,2 +1,3 @@
 PyYAML==6.0.1
-python-magic-bin
+python-magic
+
