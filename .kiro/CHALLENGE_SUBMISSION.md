@@ -78,16 +78,16 @@ The AI handled implementation while the human focused on requirements, testing, 
 
 Because Kiro handled the complex implementation details, I could focus on adding more features:
 
-1. ✅ MIME-based file categorization
-2. ✅ SHA256 duplicate detection
-3. ✅ Parallel processing for speed
-4. ✅ Automatic archiving of old files
-5. ✅ Comprehensive logging system
-6. ✅ JSON report generation
-7. ✅ Dry-run mode for safety
-8. ✅ Flexible YAML configuration
-9. ✅ CI/CD with GitHub Actions
-10. ✅ Cross-platform support
+1. MIME-based file categorization
+2. SHA256 duplicate detection
+3. Parallel processing for speed
+4. Automatic archiving of old files
+5. Comprehensive logging system
+6. JSON report generation
+7. Dry-run mode for safety
+8. Flexible YAML configuration
+9. CI/CD with GitHub Actions
+10. Cross-platform support
 
 Without AI assistance, I would have likely shipped a basic version with only 3-4 of these features.
 
@@ -129,6 +129,7 @@ The .kiro directory provides full transparency into how AI accelerated every pha
 
 ---
 
-**Repository**: https://github.com/ankus/lazy-desktop-cleaner
+**Repository**: https://github.com/ankushpahal-12/lazy-desktop-cleaner
 **Live Demo**: See README.md for installation and usage instructions
-**AI Assistant**: Kiro / Gemini Code Assist
+**AI Assistant**: Kiro
+
