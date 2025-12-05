@@ -4,7 +4,7 @@
 
 This project is a simple yet powerful Python script that automates the boring, repetitive task of cleaning up a messy directory (like your Desktop!). It scans a folder, categorizes files based on their type, and moves them into neatly organized subfolders.
 
-![CI Badge](https://github.com/ankus/lazy-desktop-cleaner/actions/workflows/ci.yml/badge.svg)
+![CI Badge](https://github.com/ankushpahal-12/lazy-desktop-cleaner/actions/workflows/ci.yml/badge.svg)
 
 ## Features
  
@@ -23,7 +23,7 @@ This project is a simple yet powerful Python script that automates the boring, r
  
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/lazy-desktop-cleaner.git
+    git clone https://github.com/ankushpahal-12/lazy-desktop-cleaner.git
     cd lazy-desktop-cleaner
     ```
 
